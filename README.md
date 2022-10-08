@@ -136,7 +136,7 @@ An automated system is introduced to identify different diseases on plants by ch
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" alt="💥" width="32" height="32">
-</picture> Is it an Oppurtunity [By Public Review :</h2></div>
+</picture> By Public Review :</h2></div>
 <picture>&emsp;&emsp;&emsp;
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
