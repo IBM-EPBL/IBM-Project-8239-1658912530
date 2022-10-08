@@ -1,5 +1,11 @@
 <h2 align="center"> Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px">
 </h2>
+<h3 align="center"> Team Members </h3>
+
+- MONESH KUMAR (TEAM LEAD)
+- MOHAN RAM
+- LEE MANOJ DHARSHAN
+- MOHAMED SUHAIL 
 <h4 align="center">A Revolutionary Project for the Agricultural Growth </h4>
 
 
